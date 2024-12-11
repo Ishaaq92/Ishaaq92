@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on my Event-map App because I am having to learn most of it myself. I need someone who is an experienced Swift developer.
 - 📫 How to reach me ... Connect with me on linkedIn and say you came from from my Github. Here's the link: https://beacons.ai/ishaaq92
 
-- ⚡ Fun fact: I am grateful you took your time out to read this :)
+- ⚡ Fun fact: I'm struggling with get_next_line() right now (11.12.24)
 
 <!---
 Ishaaq92/Ishaaq92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
