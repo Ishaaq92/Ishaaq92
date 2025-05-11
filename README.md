@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on some projects soon. Hoping to meet more ambitious Muslims to build a startup.
 - 📫 How to reach me ... Connect with me on linkedIn and say you came from from my Github. Here's the link: https://www.linkedin.com/in/ishaaq-ahmed-526125263/
 
-- ⚡ Fun fact: I'm taking part in an Islamic Finance competition in April.
+- ⚡ Fun fact: I am building an influencer marketing agency. 
 
 <!---
 Ishaaq92/Ishaaq92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
