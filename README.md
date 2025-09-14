@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Ishaaq92
-- 👀 I’m interested in developing my programming skills so I can build things that Muslims in the UK can benefit from.
-- 🌱 I’m currently learning low level programming in C as part of my studies at 42 London. 
+- 👀 I’m interested in developing my programming skills to build ethical software that improves lives.
+- 🌱 I’m currently mastering C++ as part of the 42 London Curriculum and also working on a 3D FPS shooter (cub3D).
 - 💞️ I’m looking to collaborate on some projects soon. Hoping to meet more ambitious Muslims to build a startup.
-- 📫 How to reach me ... Connect with me on linkedIn and say you came from from my Github. Here's the link: https://www.linkedin.com/in/ishaaq-ahmed-526125263/
+- 📫 How to reach me: Connect with me on linkedIn. Here's the link: https://www.linkedin.com/in/ishaaq-ahmed-526125263/
 
-- ⚡ Fun fact: I am building an influencer marketing agency. 
+- ⚡ Fun fact: The empty set is a subset of every set.
 
 <!---
 Ishaaq92/Ishaaq92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
