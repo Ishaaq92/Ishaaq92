@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ishaaq92
-- 👀 I’m interested in developing my programming skills to build ethical software that improves lives.
-- 🌱 I’m currently mastering C++ as part of the 42 London Curriculum and also working on a 3D FPS shooter (cub3D).
+- 👀 I’m interested in developing my programming skills to build or work for an Islamic fintech.
+- 🌱 I’m currently mastering C++ as part of the 42 London Curriculum and also building a webserver from scratch.
 - 💞️ I’m looking to collaborate on some projects soon. Hoping to meet more ambitious Muslims to build a startup.
 - 📫 How to reach me: Connect with me on linkedIn. Here's the link: https://www.linkedin.com/in/ishaaq-ahmed-526125263/
 
